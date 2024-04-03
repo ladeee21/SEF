@@ -6,4 +6,8 @@ void train(){
 
 
 
+void predict(){
+    printf("predict");
+}
+
 

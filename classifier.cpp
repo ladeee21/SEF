@@ -10,6 +10,3 @@ void train(){
 void predict(){
     printf("predict");
 }
-
-
-C:\Users\jorda\source\repos\SEF
